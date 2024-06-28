@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @khushiyadav7305
 - 👀 I’m interested in coding and making new programs and learning more about it
-- 🌱 I know python and currently i'm learning C++.
+- 🌱 I know python.
 - 📫 You can reach to me through my email khushiy9876@gmail.com
 
 <!---
