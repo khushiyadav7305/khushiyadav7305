@@ -1,9 +1,23 @@
-- 👋 Hi, I’m @khushiyadav7305
-- 👀 I’m interested in coding and making new programs and learning more about it
-- 🌱 I know python.
-- 📫 You can reach to me through my email khushiy9876@gmail.com
+# 🌸 Khushi Yadav  
 
-<!---
-khushiyadav7305/khushiyadav7305 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+*"Turning ideas into code & creativity into reality."* ✨  
+
+---
+
+## 🧩 About Me  
+🎓 B.Tech CSE (AI & DS) Student  
+💻 Exploring Web Development & DSA  
+☕ Currently focusing on **Java** (basics of C++ known)  
+🎨 Passionate about art & craft  
+
+---
+
+## ⚡ Tech Journey  
+🔹 Web Dev → HTML, CSS, JavaScript  
+🔹 Programming → Java (current focus), C++ (basics). 
+
+---
+
+✨ *“Keep learning, keep building — because every small step in code is a giant leap toward your dreams.”*
+
+---
