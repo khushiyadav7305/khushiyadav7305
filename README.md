@@ -1,23 +1,30 @@
 # 🌸 Khushi Yadav  
 
-*"Turning ideas into code & creativity into reality."* ✨  
+Frontend-focused CSE (AI & DS) student exploring open source and building clean, user-friendly web applications.
 
 ---
 
-## 🧩 About Me  
-🎓 B.Tech CSE (AI & DS) Student  
-💻 Exploring Web Development & DSA  
-☕ Currently focusing on **Java** (basics of C++ known)  
-🎨 Passionate about art & craft  
+## 👩‍💻 About Me  
+🎓 B.Tech CSE (AI & Data Science)  
+💻 Interested in Web Development & Open Source  
+☕ Currently learning **Java** (Basics of C++ known)  
+🎨 Creative mind with a love for art & craft  
 
 ---
 
-## ⚡ Tech Journey  
-🔹 Web Dev → HTML, CSS, JavaScript  
-🔹 Programming → Java (current focus), C++ (basics). 
+## 🛠️ Tech Stack  
+• HTML | CSS | JavaScript  
+• Java (learning) | C++ (basics)  
+• Git & GitHub  
 
 ---
 
-✨ *“Keep learning, keep building — because every small step in code is a giant leap toward your dreams.”*
+## 🚀 What I'm Working On  
+🔹 Improving frontend skills  
+🔹 Contributing to beginner-friendly open-source projects  
+🔹 Strengthening DSA fundamentals  
 
 ---
+
+✨ *Learning consistently and building with purpose.*
+
